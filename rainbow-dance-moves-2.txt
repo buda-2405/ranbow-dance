@@ -1,0 +1,4 @@
+move right
+move left
+spin right
+spin left
