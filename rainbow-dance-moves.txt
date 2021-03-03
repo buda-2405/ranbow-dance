@@ -2,3 +2,4 @@ move right
 move left
 spin right
 spin left
+swirl your arms arround like a mad man
